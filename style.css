@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+
+/* ==================== MAIN ==================== */
+.main__title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    margin: 2rem 0 2rem;
+}
+
+.down-link {
+    display: block;
+    color: aquamarine;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 1.5rem;
+}
+
+.main__video {
+    margin-bottom: 2rem;
+}
+
+.main__subtitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    margin-bottom: 2rem;
+}
+
+.main__description {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    margin-bottom: 1rem;
+}
+
+.main__img {
+    margin-bottom: 1rem;
+}
+
+/* ==================== FOOTER ==================== */
+.footer__img {
+    margin-bottom: 2rem;
+}
+
+.footer__title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    margin-bottom: 2rem;
+}
+
+.footer__copy {
+    text-align: right;
+    font-size: 20px;
+    color: gray;
+    margin: 0 0 2rem 110rem;
+}
